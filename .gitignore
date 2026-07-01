@@ -1,0 +1,12 @@
+.venv/
+.idea/
+.langgraph_api/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.db
+*.db-shm
+*.db-wal
+.ipynb_checkpoints/
